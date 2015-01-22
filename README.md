@@ -7,6 +7,8 @@
 [Beautify HTML, CSS, and Javascript in Adobe Brackets](https://github.com/drewhamlett/brackets-beautify)
 
 # Weixin
+[Analyze Weixin Protocal](http://www.blogjava.net/yongboy/archive/2014/03/05/410636.html)
+
 **URL**
 http://dns.weixin.qq.com/cgi-bin/micromsg-bin/newgetdns?uin=22898665&clientversion=637534778&scene=0&net=1&md5=219ea25340018dbf2272e17653efcac3&devicetype=android-17&lan=zh_CN&sigver=1
 
